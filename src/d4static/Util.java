@@ -77,7 +77,9 @@ public class Util {
 
     }
 
-
+    /**
+     * Read Properties while creating the JAR
+     */
 
     private void readPropsJar(){
         Properties prop = new Properties();
@@ -90,6 +92,10 @@ public class Util {
             e.printStackTrace();
         }
     }
+
+    /**
+     * Read Properties while creating the JAR
+     */
 
     public static void writePropsJar(String key,String value) {
 
