@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JarWithProperties:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JarWithProperties_jar</output-path>
+    <root id="archive" name="JarWithProperties.jar">
+      <element id="module-output" name="JarWithProperties" />
+    </root>
+  </artifact>
+</component>
